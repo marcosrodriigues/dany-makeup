@@ -69,7 +69,6 @@ export default class Promocao extends Component {
                 <View style={Style.promocao}>
                     <FlatList 
                         contentContainerStyle={Style.flatList}
-                        pagingEnabled={true}
                         showsHorizontalScrollIndicator={false}
                         horizontal={true}
                         data={promocoes}

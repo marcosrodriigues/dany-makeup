@@ -10,7 +10,7 @@ export default StyleSheet.create({
   },
   imageBackground: {
     width: '100%',
-    height: 250, //169
+    height: 169, //169
     backgroundColor: "#ffffff",
     position: 'absolute',
     top: 0, right: 0, left: 0, bottom: 0,

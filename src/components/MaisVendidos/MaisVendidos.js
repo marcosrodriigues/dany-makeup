@@ -57,7 +57,6 @@ export default class MaisVendidos extends Component {
                 <View style={Style.produtosMaisVendidos}>
                     <FlatList 
                         contentContainerStyle={Style.flatList}
-                        pagingEnabled={true}
                         showsHorizontalScrollIndicator={false}
                         horizontal={true}
                         data={produtos}

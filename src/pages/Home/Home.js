@@ -10,7 +10,7 @@ import MaisVendidos from '../../components/MaisVendidos/MaisVendidos'
 export default function HomeScreen() {
     return (
       <ScrollView contentContainerStyle={Style.container}>
-          <ImageBackground style={Style.imageBackground} source={require('../../../src/assets/images/dany-makeup-250h.png')} >
+          <ImageBackground style={Style.imageBackground} source={require('../../../src/assets/images/dany-makeup-169h.png')} >
             <Banner />
           </ImageBackground>
           <View style={Style.content}>
