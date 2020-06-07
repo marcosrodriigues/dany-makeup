@@ -2,3 +2,6 @@
 	path = mobile
 	url = https://github.com/marcosrodriigues/dany-makeup-mobile.git
 
+[submodule "backend"]
+	path = backend
+	url = https://github.com/marcosrodriigues/dany-makeup-backend.git
