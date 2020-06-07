@@ -1,6 +1,4 @@
-[submodule "dany-makeup-mobile"]
-	path = dany-makeup-mobile
-	url = https://github.com/marcosrodriigues/dany-makeup-mobile.git
 [submodule "mobile"]
 	path = mobile
 	url = https://github.com/marcosrodriigues/dany-makeup-mobile.git
+
